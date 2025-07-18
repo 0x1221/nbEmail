@@ -21,7 +21,7 @@
 
 ### 交流反馈
 
-- QQ 群： [992633507](https://jq.qq.com/?_wv=1027&k=5YwX0m5)
+- QQ 群： [992633507](https://qm.qq.com/q/5gqXPyzm7C)
 
 ---
 
