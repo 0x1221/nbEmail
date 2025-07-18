@@ -1,7 +1,8 @@
 # NBEmail
 
 **NBEmail** 是一个基于 **Go** 后端和 **Vue** 前端的现代邮件系统，提供高性能、高可靠性的一体化邮件解决方案。无论是个人用户还是团队合作，NBEmail 都能帮助您快速、便捷地管理邮件。
-<img width="2009" height="1000" alt="image" src="https://github.com/user-attachments/assets/9f5c9466-3558-4e6e-8b0d-d299cc8e3a65" />
+
+![NBEmail Screenshot](https://github.com/user-attachments/assets/9f5c9466-3558-4e6e-8b0d-d299cc8e3a65)
 
 ---
 
@@ -18,14 +19,20 @@
 
 ---
 
+### 交流反馈
+
+- QQ 群： [992633507](https://jq.qq.com/?_wv=1027&k=5YwX0m5)
+
+---
+
 ## 安装与配置
 
 ### 下载 Release 二进制文件
 
-1. 访问 [Releases 页面]([https://github.com/your-repo/nbemail/releases](https://github.com/0x1221/nbEmail/releases))。
+1. 访问 [Releases 页面](https://github.com/0x1221/nbEmail/releases)。
 2. 根据您的操作系统下载相应的 **二进制文件**（Windows/Linux/macOS）。
 3. 解压下载的文件，并运行以下命令启动服务：
 
 ```bash
-chmod +x 程序名
-nohup ./程序名 &
+chmod +x 程序名      # 给程序添加执行权限
+nohup ./程序名 &    # 在后台启动服务
