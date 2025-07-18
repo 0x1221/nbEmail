@@ -1,6 +1,7 @@
 # NBEmail
 
 **NBEmail** 是一个基于 **Go** 后端和 **Vue** 前端的现代邮件系统，提供高性能、高可靠性的一体化邮件解决方案。无论是个人用户还是团队合作，NBEmail 都能帮助您快速、便捷地管理邮件。
+<img width="2009" height="1000" alt="image" src="https://github.com/user-attachments/assets/9f5c9466-3558-4e6e-8b0d-d299cc8e3a65" />
 
 ---
 
