@@ -4,7 +4,7 @@
 
 NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高效的邮件管理体验。
 
-**特别提示**：NBEmail 是闭源的，并且提供免费版和专业版，免费版直接在[GitHub Releases](https://github.com/0x1221/nbEmail/releases)下载即可使用，专业版则需购买授权。
+**特别提示**：NBEmail 是闭源的，并且提供免费版和专业版，专业版则需购买授权。
 
 **期待的事**：你的 [Stars](https://github.com/0x1221/nbEmail/stargazers) 就是我更新的动力。
 
@@ -28,3 +28,7 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 ## 📥 快速开始
 
 访问 [GitHub Releases](https://github.com/0x1221/nbEmail/releases) 获取最新版本并开始使用。
+
+## 👥 联系我们
+
+- 点击链接加入群聊【NBEmail】：https://qm.qq.com/q/1EtOtsZPH2
