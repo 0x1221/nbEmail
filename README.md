@@ -4,7 +4,11 @@
 
 NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高效的邮件管理体验。
 
-**期待的事**：你的 [Stars](https://github.com/0x1221/nbEmail/stargazers) 就是我更新的动力。
+## 🍟 项目起源
+
+- NBEmail一开始是免费项目，不过由于某些同行觊觎NBEmail的独特之处，进行倒卖程序，污蔑一说，NBEmail不得已施行措施推出免费版和付费版，以防某些傻逼同行抄袭系统功能，还请尊重原创劳动成果，此处仅作为NBEmail的更新地址。作者QQ：1248569986 （有偿技术支持）
+- 你的 [Stars](https://github.com/login?return_to=%2F0x1221%2FnbEmail) 就是我更新的动力。
+
 
 ## ✨ 核心特性
 
@@ -27,6 +31,7 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 
 访问 [GitHub Releases](https://github.com/0x1221/nbEmail/releases) 获取最新版本并开始使用。
 
-## 👥 联系我们
 
-- 点击链接加入群聊【NBEmail】：https://qm.qq.com/q/1EtOtsZPH2
+## 🚀 部署教程
+
+访问 [哔哩哔哩](https://b23.tv/10KgVVd) 查看部署教程。
