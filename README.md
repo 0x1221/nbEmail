@@ -25,7 +25,10 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 ### 🎥 部分功能演示
 
 <div align="center">
-  <img alt="image" src="https://github.com/0x1221/nbEmail/blob/main/assets/emailAccount.png" />
+  <img alt="image" src="https://github.com/user-attachments/assets/3980d596-a2a0-4415-9aff-f10caf1ac6a3" />
+<img alt="image" src="https://github.com/user-attachments/assets/a70a0364-af8d-4d89-ab1b-c3338632e5b2" />
+
+
 </div>
 
 ## 📥 快速开始
