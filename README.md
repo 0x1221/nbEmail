@@ -25,7 +25,7 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 - 🧪 **发信测试**： **邮件发信测试高达🔴 10  分**，NBEmail的发信功能经过特殊优化。
 - 📬 **发信功能**：完成域名 DNS 配置后，邮件发送到 Gmail 等邮箱时，能够直接进入收件箱，而不是垃圾箱。
 
-### 🎥 部分功能演示
+### 🎥 系统部分功能演示
 
 <div align="center">
   <img alt="image"   src="https://github.com/user-attachments/assets/d94ea3a7-04c0-4e48-a334-a1277df4fa7f" />
@@ -34,3 +34,14 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 <img alt="image"   src="https://github.com/user-attachments/assets/f396c654-3828-4372-92f2-3181826b3f67" />
 </div>
 
+
+### 🎥 群发工具部分功能演示
+
+<div align="center">
+ <img width="1186" height="673" alt="QQ_1760285391166" src="https://github.com/user-attachments/assets/03b7eb71-e38b-48a7-b1af-8090fd91a811" />
+ <img width="1186" height="673" alt="image" src="https://github.com/user-attachments/assets/587934a2-e5ff-4e15-baea-51fa4ddeb355" />
+ <img width="1186" height="673" alt="QQ_1760285462645" src="https://github.com/user-attachments/assets/db2ff725-acd8-4aa2-a010-4f5bab35ad61" />
+<img width="1186" height="673" alt="QQ_1760285490961" src="https://github.com/user-attachments/assets/9738dce1-39a7-4d07-9460-ea783edc8432" />
+<img width="1186" height="673" alt="QQ_1760285527083" src="https://github.com/user-attachments/assets/a34a7c05-b2a2-434b-a7e3-a71dc779b0bc" />
+<img width="1186" height="673" alt="QQ_1760285546217" src="https://github.com/user-attachments/assets/a8697978-2f3d-4d1b-bd40-d62b0a34f18a" />
+</div>
