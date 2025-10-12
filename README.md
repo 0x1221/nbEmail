@@ -6,14 +6,15 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 
 ## 🍟 项目起源
 
-- NBEmail一开始是免费项目，不过由于某些同行觊觎NBEmail的独特之处，进行倒卖程序，污蔑一说，NBEmail不得已施行措施推出付费授权，以防某些傻逼同行抄袭系统功能，还请尊重原创劳动成果，此处仅作为NBEmail的更新地址。授权联系作者QQ：1248569986 
+- NBEmail一开始是免费项目，不过由于某些同行觊觎NBEmail的独特之处，进行倒卖程序，污蔑一说，NBEmail不得已施行措施推出付费授权，以防某些傻逼同行抄袭系统功能，还请尊重原创劳动成果。购买授权联系作者QQ：1248569986 
 - smtp群发工具，邮箱批量发送工具，请访问官网：[点击访问演示站](https://nb.298s.shop/)
 - 你的 [Stars](https://github.com/login?return_to=%2F0x1221%2FnbEmail) 就是我更新的动力。
 
 
 ## ✨ 核心特性 （司马彭春福，再看把你吗杀了）
 
-不用在看了，吊打全网，别人有的我们也有，别人没有的我们也有，就算没有的也支持定制，一下仅仅是简略介绍。
+<h4>不用在看了，吊打全网，别人有的我们也有，别人没有的我们也有，就算没有的也支持定制，以下仅仅是简略介绍。</h4>
+<h4>同行再他妈偷窥你爹原创功能吧尼玛杀了，就知道偷别人的东西，自己没脑子吗。</h4>
 
 - 🔄 **现代技术栈**：基于 Go、Vue、Vite 和 SQLite 架构，性能卓越，响应快速。
 - 📝 **极速部署**：一键启动，不依赖宝塔等第三方插件，因为 NBEmail 从根本的角度实现了发信和收信。
@@ -27,17 +28,9 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 ### 🎥 部分功能演示
 
 <div align="center">
-  <img alt="image" src="https://github.com/user-attachments/assets/3980d596-a2a0-4415-9aff-f10caf1ac6a3" />
-<img alt="image" src="https://github.com/user-attachments/assets/a70a0364-af8d-4d89-ab1b-c3338632e5b2" />
-
-
+  <img alt="image"   src="https://github.com/user-attachments/assets/d94ea3a7-04c0-4e48-a334-a1277df4fa7f" />
+  <img alt="image"  src="https://github.com/user-attachments/assets/46ca85b8-eb63-49f4-8608-3171676118bc" />
+<img alt="image"  src="https://github.com/user-attachments/assets/4cf5dc2b-3bca-4e88-99b0-2678fc68fe6a" />
+<img alt="image"   src="https://github.com/user-attachments/assets/f396c654-3828-4372-92f2-3181826b3f67" />
 </div>
 
-## 📥 快速开始
-
-访问 [GitHub Releases](https://github.com/0x1221/nbEmail/releases) 获取最新版本并开始使用。
-
-
-## 🚀 部署教程
-
-访问 [哔哩哔哩](https://b23.tv/10KgVVd) 查看部署教程。
