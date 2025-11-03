@@ -11,6 +11,7 @@ NBEmail 是一个小巧而强大的邮件管理系统，旨在提供便捷、高
 - smtp群发工具，邮箱批量发送工具，请访问官网：[点击访问演示站](https://nb.298s.shop/)
 - 你的 [Stars](https://github.com/login?return_to=%2F0x1221%2FnbEmail) 就是我更新的动力。
 
+<img width="300"  alt="qrcode_1762158835755" src="https://github.com/user-attachments/assets/ec8b1fd4-73b5-48e7-8505-0cc1bcc391cd" />
 
 ## ✨ 核心特性 （司马彭春福，再看把你吗杀了）
 
