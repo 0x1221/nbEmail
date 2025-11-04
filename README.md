@@ -27,7 +27,7 @@
 NBEmail 最初是一个免费开源项目，但因部分用户进行倒卖与抄袭，所以推出 **付费版** 以保护原创成果同时让用户获得更好的体验。  
 
 - ✅ **社区免费版** 可在 [Releases](https://github.com/0x1221/nbEmail/releases) 下载使用
-- ⭐ 点亮 [Star](https://github.com/login?return_to=%2F0x1221%2FnbEmail) 即可激活免费社区版  
+- ⭐ 点亮 [Star](https://github.com/login?return_to=%2F0x1221%2FnbEmail) 即可激活免费社区版  （社区版只能收件）
 - 💬 社区版功能有限，其他版本授权联系作者：**QQ 1248569986**  
 - 🌐 [点击访问演示站](https://qm.qq.com/q/qrKpKVDQzu) 查看 NBEmail 实际效果  
 ---
