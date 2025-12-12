@@ -1,7 +1,8 @@
 # ✉️ NBEmail 🚀 — 强大而优雅的邮件管理系统  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec8b1fd4-73b5-48e7-8505-0cc1bcc391cd" width="200" alt="NBEmail QR Code" />
+  <img width="120" src="https://github.com/user-attachments/assets/0d0bc953-2752-4d5b-96aa-ed1e5974b72e" alt="UI" />
+
 </p>
 
 <p align="center">
