@@ -1,16 +1,14 @@
-# ✉️ NBEmail 🚀 — 强大而优雅的邮件管理系统  
+# nbEmail - 企业级邮件自动化营销平台
 
-<p align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/0d0bc953-2752-4d5b-96aa-ed1e5974b72e" alt="UI" />
+![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat-square&logo=go) ![Vue](https://img.shields.io/badge/Vue-3.5+-42B883?style=flat-square&logo=vue.js) ![Ant Design](https://img.shields.io/badge/Ant%20Design-4.2+-1677FF?style=flat-square&logo=antdesign) ![License](https://img.shields.io/badge/License-Commercial-red?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square) ![WeChat](https://img.shields.io/badge/WeChat-Mini%20Program-07C160?style=flat-square&logo=wechat)
 
-</p>
+> **无限生成邮箱 · 日发上万 · 智能管理 · 多端协同**
 
-<p align="center">
-  <a href="https://qm.qq.com/q/qrKpKVDQzu"><img src="https://img.shields.io/badge/Demo-在线演示站-blue?style=for-the-badge"></a>
-  <a href="https://github.com/0x1221/nbEmail/stargazers"><img src="https://img.shields.io/github/stars/0x1221/nbEmail?style=for-the-badge&color=gold"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-Commercial-orange?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-Go%20%26%20Vue-green?style=for-the-badge"></a>
-</p>
+nbEmail 是一款功能强大的企业级邮件自动化营销系统，专为需要大规模邮件投放、收件监控、精细化管理的团队和企业设计。系统支持 Web 管理后台、桌面客户端和微信小程序多端协同，让邮件营销变得简单高效。
+
+nbEmail 是一个小巧而强大的邮件管理系统，拥有强大的电子邮件营销功能，旨在提供高效、简洁、现代化的邮件收发体验。支持群发、收信、提取验证码、SMTP调用、API控制等多种高级功能。
+
+nbEmail 一键部署，无需依赖宝塔等第三方面板，轻量、独立、快速上手！
 
 ---
 
@@ -53,7 +51,51 @@
 
 ---
 
-## 🖼️ 系统功能预览  
+
+
+
+### 强大的数据看板
+- **实时统计**：今日发件/收件数量、总邮件数、域名数、任务数一目了然
+- **24小时趋势**：每小时发件/收件数据可视化，掌握邮件投放节奏
+- **打开率分析**：HTML 邮件打开率统计，评估营销效果
+- **进箱率监控**：邮件送达进箱率分析，优化发送策略
+- **任务概览**：定时任务状态、成功/失败统计，任务管理更轻松
+
+```mermaid
+graph LR
+    A[数据看板] --> B[核心指标]
+    A --> C[趋势分析]
+    A --> D[效果评估]
+    A --> E[任务管理]
+    B --> B1[今日发件/收件]
+    B --> B2[总邮件数]
+    B --> B3[域名数量]
+    B --> B4[定时任务数]
+    C --> C1[24小时发件趋势]
+    C --> C2[24小时收件趋势]
+    D --> D1[HTML打开率]
+    D --> D2[进箱率统计]
+    E --> E1[任务状态]
+    E --> E2[成功/失败统计]
+```
+---
+
+```mermaid
+graph TD
+    A[nbEmail 系统] --> B[Web 管理后台]
+    A --> C[桌面客户端]
+    A --> D[微信小程序]
+    B --> E[完整管理功能]
+    C --> F[文件选择/批量发送]
+    D --> G[移动端快速操作]
+    E --> H[统一数据库]
+    F --> H
+    G --> H
+```
+
+---
+
+## 系统功能预览
 
 <div align="center">
   <img width="2116" height="953" alt="image" src="https://github.com/user-attachments/assets/3abd5cd5-8269-4de4-8e1a-b7d8ce704243" />
@@ -77,7 +119,7 @@
 
 ---
 
-## 💥 群发工具演示  
+## 群发工具演示
 
 <div align="center">
   <img width="1186" height="673" src="https://github.com/user-attachments/assets/03b7eb71-e38b-48a7-b1af-8090fd91a811" />
@@ -89,5 +131,41 @@
 </div>
 
 ---
-## 📈 Star 历史趋势
+
+## 典型应用场景
+
+### 1. 大规模邮件营销
+- 批量生成数千个邮箱账号作为发件池
+- 定时发送营销邮件，日发量可达上万封
+- 实时监控发送效果，优化营销策略
+
+### 2. 企业邮件管理
+- 集中管理企业所有邮箱账号
+- 统一收件管理，不错过重要邮件
+- 权限分级管理，保障数据安全
+
+### 3. 渠道代理商运营
+- 为客户提供邮箱账号购买服务
+- 灵活的配额管理，按需分配资源
+- 完整的订单和支付系统
+
+### 4. 移动办公协同
+- 微信小程序快速发件/收件
+- 桌面端处理批量任务
+- 多端数据同步，办公更高效
+
+---
+
+## 授权联系
+
+- 版本授权联系作者：微信 tmd6637
+
+---
+
+## Star 历史趋势
+
 [![Star History Chart](https://api.star-history.com/svg?repos=0x1221/nbEmail&type=Date)](https://star-history.com/#0x1221/nbEmail&Date)
+
+---
+
+**让邮件营销更简单，让管理更高效！**
